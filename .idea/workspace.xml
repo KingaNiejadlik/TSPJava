@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f4df9d0-5bf2-4aa3-921f-a5e8337f934c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled2" />
+  </component>
+  <component name="ProjectId" id="1Se8mPWPf7FkqmgNseWtWdbmK4i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="TSP" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="TSP" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="TSP" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f4df9d0-5bf2-4aa3-921f-a5e8337f934c" name="Default Changelist" comment="" />
+      <created>1571912858061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571912858061</updated>
+      <workItem from="1571912861264" duration="848000" />
+      <workItem from="1572008970050" duration="17000" />
+      <workItem from="1572847534209" duration="8019000" />
+      <workItem from="1573045649659" duration="7135000" />
+      <workItem from="1574087774968" duration="1398000" />
+      <workItem from="1574089186452" duration="8368000" />
+      <workItem from="1574174475815" duration="367000" />
+      <workItem from="1574426172286" duration="1223000" />
+      <workItem from="1574584835463" duration="2422000" />
+      <workItem from="1574774236541" duration="4700000" />
+      <workItem from="1574937920332" duration="2853000" />
+      <workItem from="1575545201732" duration="740000" />
+      <workItem from="1575640014854" duration="637000" />
+      <workItem from="1576150675998" duration="567000" />
+      <workItem from="1576166637850" duration="13632000" />
+      <workItem from="1576230153590" duration="1598000" />
+      <workItem from="1576240621775" duration="4448000" />
+      <workItem from="1576329588719" duration="294000" />
+      <workItem from="1576330045908" duration="4362000" />
+      <workItem from="1576401796864" duration="15000" />
+      <workItem from="1579075396365" duration="7727000" />
+      <workItem from="1579085048385" duration="1527000" />
+      <workItem from="1579622145356" duration="620000" />
+      <workItem from="1579875540427" duration="506000" />
+      <workItem from="1596097313757" duration="58000" />
+      <workItem from="1613031387528" duration="781000" />
+      <workItem from="1613033997046" duration="965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576150762424">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="490" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1576150762424" />
+    <state width="1237" height="25" key="GridCell.Tab.0.bottom" timestamp="1576245107053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="25" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576245107053" />
+    <state width="1237" height="25" key="GridCell.Tab.0.center" timestamp="1576245107053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="25" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576245107053" />
+    <state width="1237" height="25" key="GridCell.Tab.0.left" timestamp="1576245107053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="25" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576245107053" />
+    <state width="1237" height="25" key="GridCell.Tab.0.right" timestamp="1576245107053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="25" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576245107053" />
+    <state width="1237" height="25" key="GridCell.Tab.1.bottom" timestamp="1576245107053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="25" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576245107053" />
+    <state width="1237" height="25" key="GridCell.Tab.1.center" timestamp="1576245107053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="25" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576245107053" />
+    <state width="1237" height="25" key="GridCell.Tab.1.left" timestamp="1576245107053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="25" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576245107053" />
+    <state width="1237" height="25" key="GridCell.Tab.1.right" timestamp="1576245107053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="25" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576245107053" />
+    <state x="203" y="76" width="874" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576244293074">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="203" y="76" width="874" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1576244293074" />
+  </component>
+</project>
